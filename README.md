@@ -1,1 +1,1 @@
-# barbearia-dois
+# Barbearia-2.0
